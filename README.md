@@ -1,4 +1,4 @@
-wrecker-mishra.github.io
+mishra.github.io
 ========================
 
 Potential webpage
